@@ -1,0 +1,4 @@
+interface:
+  display_name: "崩老头 Skill"
+  short_description: "分析聊天关系与操控风险，生成自然回复并支持微信当前会话只读扫描"
+  default_prompt: "使用 $relationship-copilot-cn 分析这段聊天，识别关系状态与操控风险，并给出自然、有边界感的回复建议。"
